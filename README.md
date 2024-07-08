@@ -318,7 +318,7 @@ This is usually a neglected part of placements. Try to understand the requiremen
 <!-- TOC --><a name="a-side-note"></a>
 ## A Side Note
 
-- Placements are stressful. It is very easy to be worn out. Given the current market situation, it is easy to panic/get depressed. IITs usually see several suicides during this phase. Make sure to create a support system with friends, and reach out to counselors.
+- Placements are stressful and can worn you out. Given the current market situation, it is easy to panic/get depressed. IITs usually see several suicides during this phase. Make sure to create a support system with friends, and reach out to counselors.
 
 
 <!-- TOC --><a name="some-more-prep-links"></a>
