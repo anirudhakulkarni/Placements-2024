@@ -250,7 +250,7 @@ Tech SDE requires CP, CS fundamentals, and a bit of Dev/C++.
 
 - Should I apply for just “important” profiles?
 
-Getting experience with placement tests is important. I have seen people applying just for “important” profiles and then panicking in tests and not getting a single shortlist on day 1. I shamelessly applied for every profile out there. I experimented with time management and handling stress during tests. The same goes for interviews. I gave Tech SDE interviews as a mock for tech rounds and HR rounds.
+Getting experience with placement tests is important. I have seen people applying just for “important” profiles and then panicking in tests and not getting shortlists. I shamelessly applied for every profile out there. I experimented with time management and handling stress during tests. The same goes for interviews. I gave Tech SDE interviews as a mock for tech rounds and HR rounds.
 
 <!-- TOC --><a name="placement-tests"></a>
 ## Placement Tests:
