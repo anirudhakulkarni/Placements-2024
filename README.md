@@ -286,9 +286,9 @@ This is usually a neglected part of placements. Try to understand the requiremen
 <!-- TOC --><a name="interviews"></a>
 ## Interviews
 
-- Interviews usually start well before day 1. Most of the HFTs will conduct multiple rounds before. Some Tech SDEs tried to conduct interviews this time, but OCS imposed restrictions.
+- Interviews usually start well before (November month) day one (now day 1.1). Most of the HFTs will conduct multiple rounds before. Enjoy the attention you get from companies during this period before day one (*we da best, join us*) Some Tech SDEs tried to conduct interviews this time, but OCS imposed restrictions. 
 
-- OCS restricts the number of interviews available on day 1 (now day 1.1) to just five interviews (petition to change this). You can select the preference a day before and get interviews slotted accordingly. I had all HFTs at the top and could not interview for Tech SDE roles on day one. You could be more strategic in filing the preferences to minimize the risk.
+- OCS restricts the number of interviews available on any slot to just five interviews (petition to change this). You can select the preference a day before and get interviews slotted accordingly. I had all HFTs at the top and could not interview for Tech SDE roles on day one. You could be more strategic in filing the preferences to minimize the risk.
 
 - Having a friend with your phone handling interview scheduling can be useful. Companies tend to overshoot the time limit if they like you, and you can easily miss other interviews. You can prioritize beforehand which one to focus on and which one to skip to avoid any miss on the actual day. I skipped the final round for some of the profiles to continue with rounds for prioritized profiles.
 
