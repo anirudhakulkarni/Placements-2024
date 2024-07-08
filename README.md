@@ -1,9 +1,34 @@
+<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
+
+- [Placements at IIT Delhi 2024](#placements-at-iit-delhi-2024)
+   * [Preparation:](#preparation)
+      + [Competitive Programming (CP)](#competitive-programming-cp)
+      + [2. Dev/C++](#2-devc)
+      + [3. Quant Section](#3-quant-section)
+      + [4. CS](#4-cs)
+         - [1. CN](#1-cn)
+         - [2. OS](#2-os)
+         - [3. Parallel](#3-parallel)
+         - [4. Computer architecture](#4-computer-architecture)
+   * [Applications:](#applications)
+   * [Placement Tests:](#placement-tests)
+   * [Understanding Cultural Fit](#understanding-cultural-fit)
+   * [Interviews](#interviews)
+   * [After Interviews](#after-interviews)
+   * [A Side Note](#a-side-note)
+   * [Some More Prep Links](#some-more-prep-links)
+
+<!-- TOC end -->
+
+<!-- TOC --><a name="placements-at-iit-delhi-2024"></a>
 # Placements at IIT Delhi 2024
 
 I sat for placements in 2024 at IIT Delhi. This is an attempt to compile the preparation I did from August 2024 to November 2024.
 
+<!-- TOC --><a name="preparation"></a>
 ## Preparation:
 
+<!-- TOC --><a name="competitive-programming-cp"></a>
 ### Competitive Programming (CP)
 
 Graphs, trees, Dynamic Programming, recursion, and range queries are some of the most important topics. Some Sources of questions:
@@ -125,6 +150,7 @@ Graphs, trees, Dynamic Programming, recursion, and range queries are some of the
 
 Some more advanced topics especially for HFTs include dp on graph and linear expectations questions on graphs.
 
+<!-- TOC --><a name="2-devc"></a>
 ### 2. Dev/C++
 
 This is a very wide area. I felt having practical experience helps here. Some important topics one should consider in alphabetical order from my notes:
@@ -161,6 +187,7 @@ This is a very wide area. I felt having practical experience helps here. Some im
 
 I felt this was more than enough for what placement tests asked for. Practice gfg question sets like this <https://www.geeksforgeeks.org/commonly-asked-c-interview-questions-set-1/>, [C++ Programming Multiple Choice Questions - GeeksforGeeks](https://www.geeksforgeeks.org/c-programming-multiple-choice-questions/) occasionally. The more you solve better it is.
 
+<!-- TOC --><a name="3-quant-section"></a>
 ### 3. Quant Section
 
 Probability is majorly required for quant profiles even though some SDE roles at HFTs also ask them as part of the general aptitude test. This includes probability and mathematical puzzles.
@@ -183,22 +210,27 @@ Apart from this, I studied topics as I came across:
 
 Some other questions I used but were not required as such are: <https://hireglyph.com/questions>, <https://www.quantguide.io/>, brainstellar, geeksforgeeks.
 
+<!-- TOC --><a name="4-cs"></a>
 ### 4. CS
 
 This section is sometimes copy-pasted GFG questions or complex questions with an application of fundamental concepts. OS lectures from Sourav Bansal cover OS+parallel+some part of the architecture.
 
+<!-- TOC --><a name="1-cn"></a>
 #### 1. CN
 
 For Computer Network understand the layers. Understanding actual function calls instead of abstract ideas helped me in graviton interviews and interviewers seemed to appreciate it a lot. GFG problem sets are good for this.
 
+<!-- TOC --><a name="2-os"></a>
 #### 2. OS
 
 <https://www.youtube.com/playlist?list=PLEAYkSg4uSQ3RTwDexX_T0TU7V9hHM_RO> this is the gold standard for OS with this <https://iitd-plos.github.io/os/2020/schedule.html>
 
+<!-- TOC --><a name="3-parallel"></a>
 #### 3. Parallel
 
 I did not find any particular lecture series useful for this. Solving gfg questions and YouTube videos as required helped. Some of the important topics are semaphores, condition variables, threads, locks, etc. Try to apply these topics in practice. HFTs ask some really good questions in this area.
 
+<!-- TOC --><a name="4-computer-architecture"></a>
 #### 4. Computer architecture
 
 Again, occasional gfg questions and random slides from MIT help are here. NK hardware role asked for logic gates and constructing arbitrary truth tables from basic logic gates. Some important topics: Understand cache, cache coherence protocol, associativity, pipelining size calculation for page table etc. Someone else could contribute here.
@@ -209,12 +241,14 @@ Tech SDE requires CP, CS fundamentals, and a bit of Dev/C++.
 
 HFT Quant requires CP, CS fundamentals, and quant section extensively. You could potentially just skim through CS fundamentals but still get through.
 
+<!-- TOC --><a name="applications"></a>
 ## Applications:
 
 - Should I apply for just “important” profiles?
 
 Getting experience with placement tests is important. I have seen people applying just for “important” profiles and not panicking in tests and not getting a single shortlist on day 1. I shamelessly applied for every profile out there. I experimented with time management and handling stress during tests. The same goes for interviews. I gave Tech SDE interviews as a mock for tech rounds and HR rounds.
 
+<!-- TOC --><a name="placement-tests"></a>
 ## Placement Tests:
 
 - Very few openings have CGPA requirements
@@ -225,6 +259,7 @@ Getting experience with placement tests is important. I have seen people applyin
 
 - Some companies shamelessly repeat the questions: Refer to these sheets [Inter IIT Placements 2021-22 (google.com)](https://docs.google.com/document/d/e/2PACX-1vSDJ7BiVSUGaO6tDhv2kDeYDJnZ_TxuhTmg9loZIg6C-jlkfUdaJYdf5XasgbTgbOdDsm9ZK-udGamv/pub#id.bw56fwlrzzox), [Inter IIT Placement 2018-2019 (google.com)](https://docs.google.com/document/d/e/2PACX-1vRqsXE-Izz-qktbRKVexkt_eByPQQzaJ5vRKnd7gMClSINVRDF6tHJwXiVoz0NnJ-V9JamNaUvDEGou/pub), [2019-20 inter iit placement questions - Google Docs](https://docs.google.com/document/d/1I_N0dUs-SFqJ0E3v2bEZmIqmgCJr3fGD911Nd1En10s/edit#heading=h.36icyhqhrajp)
 
+<!-- TOC --><a name="understanding-cultural-fit"></a>
 ## Understanding Cultural Fit
 
 This is usually a neglected part of placements. Try to understand the requirements of each profile beforehand. Understand the company culture and see where you fit beforehand. **Do not waste both your time and their time** in this process just to realize it's not the culture you want to join. **Avoid fancying any profile**. Understand the requirements of all profiles, what is fun to do, and what you can do. Stay away from firms with toxic work cultures.
@@ -243,6 +278,7 @@ This is usually a neglected part of placements. Try to understand the requiremen
 
    2. Startups are usually high risk and high reward. More responsibilities and more workload. Usually great if you want to gain skills early in your career or if you want to startup in the future. It is easy to get exploited here.
 
+<!-- TOC --><a name="interviews"></a>
 ## Interviews
 
 - Interviews usually start well before day 1. Most of the HFTs will conduct multiple rounds before. Some Tech SDEs tried to conduct interviews this time, but OCS imposed restrictions.
@@ -263,6 +299,7 @@ This is usually a neglected part of placements. Try to understand the requiremen
 
 5. **Dress well** - plan your haircut well in advance to avoid last minute embarrassments
 
+<!-- TOC --><a name="after-interviews"></a>
 ## After Interviews
 
 - Not getting what you wanted in the placements is not the end of the story. There will be some openings that weren't available during placements. Approach seniors to check if openings are available.
@@ -273,12 +310,14 @@ This is usually a neglected part of placements. Try to understand the requiremen
 
 - I have seen people not solving a single question in on-campus placement tests and yet approach them after placements and bag an offer. **Caution: This does not work with all companies**, so be prepared for being embarrassed if you do so.
 
+<!-- TOC --><a name="a-side-note"></a>
 ## A Side Note
 
 - Placements are stressful. It is very easy to be worn out. Given the current market situation, it is easy to panic/get depressed. IITs usually see several suicides during this phase. Make sure to create a support system with friends, and reach out to counselors.
 
 - Optimize health - staying active physically, and taking frequent breaks helped me optimize my performance
 
+<!-- TOC --><a name="some-more-prep-links"></a>
 ## Some More Prep Links
 
 1. [C++ Coding Standards: 101 Rules, Guidelines, and Best Practices](https://micro-os-plus.github.io/develop/sutter-101/)
