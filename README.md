@@ -13,6 +13,104 @@ Graphs, trees, Dynamic Programming, recursion, and range queries are some of the
    [Striver SDE Sheet - LeetCode](https://leetcode.com/problem-list/eeudwo2i/)  
    [neetcode.io](https://neetcode.io/practice).  
    Doing sheets is more than enough to clear all the tests. Leetcode premium question [data](https://docs.google.com/spreadsheets/d/1ilv8yYAIcggzTkehjuB_dsRI4LUxjkTPZz4hsBKJvwo/edit?gid=485397084#gid=485397084).
+   <details>
+      <summary>Common Coding Patterns in Algorithm Problems</summary>
+      
+      ### Sliding Window
+      - [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+      - [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+      - [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+      - [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
+      - [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
+      - [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+      - [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
+      - [Permutation in String](https://leetcode.com/problems/permutation-in-string/)
+      - [Longest Substring with at Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)
+
+      ### Subsets
+      - [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)
+      - [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+      - [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)
+      - [Subsets II](https://leetcode.com/problems/subsets-ii/)
+      - [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)
+      - [Generalized Abbreviation](https://leetcode.com/problems/generalized-abbreviation/)
+      - [Subsets](https://leetcode.com/problems/subsets/)
+      - [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)
+      - [Permutations](https://leetcode.com/problems/permutations/)
+
+      ### Cyclic Sort
+      - [Missing Number](https://leetcode.com/problems/missing-number/)
+      - [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
+      - [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
+      - [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
+      - [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
+
+      ### Modified Binary Search
+      - [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)
+      - [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+      - [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
+      - [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+      - [Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/)
+      - [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)
+      - [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
+      - [Binary Search](https://leetcode.com/problems/binary-search/)
+
+      ### Two Pointers
+      - [4Sum](https://leetcode.com/problems/4sum/)
+      - [3Sum](https://leetcode.com/problems/3sum/)
+      - [Sort Colors](https://leetcode.com/problems/sort-colors/)
+      - [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
+      - [3Sum Closest](https://leetcode.com/problems/3sum-closest/)
+      - [Two Sum](https://leetcode.com/problems/two-sum/)
+      - [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+      - [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)
+      - [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)
+      - [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+
+      ### Tree Breadth First Search
+      - [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
+      - [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
+      - [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+      - [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
+      - [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+
+      ### In-place Reversal of a LinkedList
+      - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+      - [Reverse Nodes in K-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+      - [Rotate List](https://leetcode.com/problems/rotate-list/)
+      - [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
+
+      ### Topological Sort
+      - [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)
+      - [Course Schedule](https://leetcode.com/problems/course-schedule/)
+      - [Sequence Reconstruction](https://leetcode.com/problems/sequence-reconstruction/description/)
+      - [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
+      - [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)
+
+      ### Tree Depth First Search
+      - [Path Sum](https://leetcode.com/problems/path-sum/)
+      - [Path Sum III](https://leetcode.com/problems/path-sum-iii/)
+      - [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
+      - [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
+      - [Path Sum II](https://leetcode.com/problems/path-sum-ii/)
+      - [Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree](https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/description/)
+      - [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+
+      ### 0/1 Knapsack
+      - [Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/)
+      - [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)
+      - [Target Sum](https://leetcode.com/problems/target-sum/)
+      - [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
+      - [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)
+
+      ### K-way Merge
+      - [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
+      - [Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/)
+      - [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+      - [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
+      </details>
+
+
 
 2. **CSES** [Profile](https://cses.fi/problemset/user/74593/)
    
