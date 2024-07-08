@@ -5,14 +5,14 @@
       + [Competitive Programming (CP)](#competitive-programming-cp)
       + [2. Dev/C++](#2-devc)
       + [3. Quant Section](#3-quant-section)
-      + [4. CS](#4-cs)
-         - [1. CN](#1-cn)
-         - [2. OS](#2-os)
-         - [3. Parallel](#3-parallel)
-         - [4. Computer architecture](#4-computer-architecture)
+      + [4. CS Fundamentals](#4-cs)
+         - [1. Computer Networks](#1-cn)
+         - [2. Operating Systems](#2-os)
+         - [3. Parallel Programming](#3-parallel)
+         - [4. Computer Architecture](#4-computer-architecture)
    * [Applications:](#applications)
    * [Placement Tests:](#placement-tests)
-   * [Understanding Cultural Fit](#understanding-cultural-fit)
+   * [Understanding Compatibility](#understanding-compatibility)
    * [Interviews](#interviews)
    * [After Interviews](#after-interviews)
    * [A Side Note](#a-side-note)
@@ -219,22 +219,22 @@ Some other questions I practiced but were not required as such are: <https://hir
 
 This section is sometimes copy-pasted GFG questions or complex questions with an application of fundamental concepts. There is no middleground. As you start to attempt placement tests, you will find repeated questions again and again.
 <!-- TOC --><a name="1-cn"></a>
-#### 1. CN
+#### 1. Computer Networks
 
 For Computer Networks understand the basics and layers. Understanding actual function calls instead of abstract ideas helped me in one of HFT interviews and interviewers seemed to appreciate it a lot. GFG problem sets are good for this.
 
 <!-- TOC --><a name="2-os"></a>
-#### 2. OS
+#### 2. Operating Systems
 OS lectures by Sorav Bansal [videos](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ3RTwDexX_T0TU7V9hHM_RO) is the gold standard for OS along with [notes](https://iitd-plos.github.io/os/2020/schedule.html). This series covers OS+parallel+some part of the architecture.
 
 
 <!-- TOC --><a name="3-parallel"></a>
-#### 3. Parallel
+#### 3. Parallel Programming
 
 I did not find any particular lecture series useful for this. Solving gfg questions and YouTube videos as required helped. Some of the important topics are semaphores, condition variables, threads, locks, etc. Try to apply these topics in practice. HFTs ask some really good questions in this area.
 
 <!-- TOC --><a name="4-computer-architecture"></a>
-#### 4. Computer architecture
+#### 4. Computer Architecture
 
 Again, solving occasional gfg questions and reading random slides from MIT helps. Hardware role at HFTs asked for constructing arbitrary truth tables from basic logic gates. Some important topics: Understand cache, cache coherence protocol, associativity, pipelining, size calculation for page table etc. (Someone else could contribute here. I did not prepare for H/W roles).
 
@@ -264,8 +264,8 @@ Getting experience with placement tests is important. I have seen people applyin
 - Some companies shamelessly repeat the questions: Refer to these sheets [Inter IIT Placements 2021-22](https://docs.google.com/document/d/e/2PACX-1vSDJ7BiVSUGaO6tDhv2kDeYDJnZ_TxuhTmg9loZIg6C-jlkfUdaJYdf5XasgbTgbOdDsm9ZK-udGamv/pub#id.bw56fwlrzzox), [Inter IIT Placement 2018-2019](https://docs.google.com/document/d/e/2PACX-1vRqsXE-Izz-qktbRKVexkt_eByPQQzaJ5vRKnd7gMClSINVRDF6tHJwXiVoz0NnJ-V9JamNaUvDEGou/pub), [2019-20 inter iit placement questions ](https://docs.google.com/document/d/1I_N0dUs-SFqJ0E3v2bEZmIqmgCJr3fGD911Nd1En10s/edit#heading=h.36icyhqhrajp)
 
 Apart from this there will be some whatsapp groups, discord channels. It sometimes helps to reduce anxiety or get a place to bitch about companies. Check with your batchmates for this.
-<!-- TOC --><a name="understanding-cultural-fit"></a>
-## Understanding Cultural Fit
+<!-- TOC --><a name="understanding-compatibility"></a>
+## Understanding Compatibility 
 
 This is usually a neglected part of placements. Try to understand the requirements of each profile beforehand. Understand the company culture and see where you fit beforehand. **Do not waste both your time and their time** in this process just to realize it's not the culture you want to join. Avoid fancying any profile. Understand the requirements of all profiles, what is fun to do, and what you can do. Stay away from firms with toxic work cultures.
 
@@ -320,7 +320,6 @@ This is usually a neglected part of placements. Try to understand the requiremen
 
 - Placements are stressful. It is very easy to be worn out. Given the current market situation, it is easy to panic/get depressed. IITs usually see several suicides during this phase. Make sure to create a support system with friends, and reach out to counselors.
 
-- Optimize health - staying active physically, and taking frequent breaks helped me optimize my performance
 
 <!-- TOC --><a name="some-more-prep-links"></a>
 ## Some More Prep Links
